@@ -2,9 +2,9 @@ var express = require('express');
 var router = express.Router();
 const myObj = {
   "drinks": [
-    { "name":"Name Name", "type":"Type Type", "cals":550 },
-    { "name":"Name Name", "type":"Type Type", "cals":200 },
-    { "name":"Name Name", "type":"Type Type", "cals":110 }
+    { "name":"Coors Lite", "type":"4.2", "cals":102 },
+    { "name":"Stone IPA", "type":"6.7", "cals":250 },
+    { "name":"Budweiser", "type":"5.0", "cals":145 }
   ]
  };
 
